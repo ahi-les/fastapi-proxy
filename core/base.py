@@ -1,2 +1,2 @@
 from .db import Base
-from proxy.models import Proxy
+from proxy.tables import Proxy
